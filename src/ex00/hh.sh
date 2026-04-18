@@ -8,5 +8,5 @@ if [ "$#" -eq 1 ]; then ## если передан ровно один аргу�
     curl -s "https://api.hh.ru/vacancies/?text=$query&search_field=name&per_page=20" \
         | jq '.' > hh.json
 else
-    echo "Usage: ./hh.sh 'data scientist'"
+    echo "для исполнения скрипта необходимо передать аргумент. Пример: ./hh.sh 'data scientist'"
 fi

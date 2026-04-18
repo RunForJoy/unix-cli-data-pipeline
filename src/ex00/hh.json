@@ -1,15 +1,15 @@
 {
   "items": [
     {
-      "id": "120042727",
+      "id": "120065427",
       "premium": false,
-      "name": "Руководитель цифровых трансформаций",
+      "name": "Специалист по ML",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
         "id": "1",
-        "name": "Москва",
+        "name": "Казань",
         "url": "https://api.hh.ru/areas/1"
       },
       "salary": null,
@@ -19,25 +19,25 @@
         "name": "Открытая"
       },
       "address": {
-        "city": "Новомосковский административный округ",
+        "city": "Кировский район",
         "street": null,
-        "building": "Бизнес-парк G10",
-        "lat": 55.633338,
-        "lng": 37.454456,
+        "building": "Бизнес-парк IT",
+        "lat": 55.636638,
+        "lng": 37.457456,
         "description": null,
-        "raw": "Новомосковский административный округ, Бизнес-парк G10",
+        "raw": "Кировский район, Бизнес-парк IT",
         "metro": {
-          "station_name": "Румянцево",
-          "line_name": "Сокольническая",
-          "station_id": "1.513",
+          "station_name": "Козья слобода",
+          "line_name": "Основная",
+          "station_id": "1.613",
           "line_id": "1",
-          "lat": 55.633,
-          "lng": 37.4419
+          "lat": 55.733,
+          "lng": 37.474
         },
         "metro_stations": [
           {
-            "station_name": "Румянцево",
-            "line_name": "Сокольническая",
+            "station_name": "Козья слобода",
+            "line_name": "Основная",
             "station_id": "1.513",
             "line_id": "1",
             "lat": 55.633,
@@ -2426,7 +2426,7 @@
     {
       "id": "118003372",
       "premium": false,
-      "name": "Менеджер по продажам B2C",
+      "name": "Менеджер по продажам BC",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
